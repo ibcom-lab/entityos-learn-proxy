@@ -1,0 +1,10 @@
+{
+	"body":
+	{
+		"apikey": "[user-id]",
+		"authkey": "[user-password]",
+		"method": "[your domain specific method name]"
+	},
+	"queryStringParameters": {},
+	"headers": {}
+}

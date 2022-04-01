@@ -1,0 +1,30 @@
+{
+    "name": "entityos-learn-proxy",
+    "version": "1.0.0",
+    "licence": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ibcom-lab/entityos-learn-proxy/raw/master/LICENSE"
+        }
+    ],
+    "description": "entityOS Learn Proxy",
+    "preferGlobal": true,
+    "main": "index.js",
+    "bin": {},
+    "author": "Mark Byers",
+    "keywords": [
+        "Push"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ibcom-lab/entityos-learn-proxy.git"
+    },
+    "dependencies": {
+        "lodash": "*",
+        "moment": "^2.19.1",
+        "mydigitalstructure": "^2.1.7"
+    },
+    "engines": {
+        "node": "*"
+    }
+}

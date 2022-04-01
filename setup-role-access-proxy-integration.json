@@ -1,0 +1,22 @@
+﻿{
+	"template":
+	{
+		"roles":
+		[
+			{
+				"title": "Proxy Integration",
+				"methods":
+				[
+					{"title": "LOGON", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "SETUP_USER_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "CORE_DEBUG_LOG_MANAGE", "canuse": "N", "canadd": "Y", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "CORE_LOGOFF", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"}
+				],
+				"properties":
+				[
+
+				]
+			}
+		]
+	}
+}
