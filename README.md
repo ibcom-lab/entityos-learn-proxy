@@ -1,4 +1,4 @@
-# entityos-learn-proxy
+# entityOS Learn Proxy
 
 Use to set up a domain specific "proxy" api 
 
